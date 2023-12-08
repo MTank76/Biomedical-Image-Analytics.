@@ -25,4 +25,9 @@ The project in the Jupyter Notebook is structured as follows:
    https://github.com/MTank76/Biomedical-Image-Analytics..git
    ```
 3. Open the Jupyter Notebook (`Bio Medical Image Analytics.ipynb`) in Jupyter Notebook or JupyterLab to explore the project and its findings.
+   
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to open issues for suggestions or submit pull requests with proposed enhancements.
+
 
