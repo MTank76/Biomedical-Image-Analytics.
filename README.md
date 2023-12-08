@@ -22,7 +22,7 @@ The project in the Jupyter Notebook is structured as follows:
 
 1. Clone or download this repository to your local machine.
    ```
-   https://github.com/MTank76/Biomedical-Image-Analytics..git
+   https://github.com/MTank76/Biomedical-Image-Analytics.git
    ```
 3. Open the Jupyter Notebook (`Bio Medical Image Analytics.ipynb`) in Jupyter Notebook or JupyterLab to explore the project and its findings.
    
